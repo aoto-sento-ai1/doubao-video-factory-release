@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "3.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/aoto-sento-ai1/doubao-video-factory-release/main/DoubaoVideoFactory-V3.8-Release.apk",
-  "sha256": "7115a7ffd0ece46fd3b4b317a942fd2ca59b0c4987aa46f3c58473e76b7f9037",
-  "releaseNotes": "新增应用内版本检查与更新下载；下载后进行 SHA-256 校验，并由 Android 系统安装程序完成升级。"
+  "apkUrl": "https://raw.githubusercontent.com/aoto-sento-ai1/doubao-video-factory-release/main/DoubaoVideoFactory-V3.8-Release-1.apk",
+  "sha256": "15dc90d640d59254ad8723708183b206ae6d524a5047c43f50de506446b62bc2",
+  "releaseNotes": "V3.8正式版：新增应用内版本检查与更新下载；下载后进行SHA-256校验，并由Android系统安装程序完成升级。"
 }
